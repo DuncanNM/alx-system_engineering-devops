@@ -1,5 +1,5 @@
 0-alias creates an alias named ls
-1-hello_you prints hello $(whoami)
+1-hello_you prints hello $USER
 2-path adds action to PATH
 3-paths counts number of dirs in the PATH
 4-global_variables lists environment variable
