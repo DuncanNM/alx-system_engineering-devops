@@ -12,3 +12,7 @@
 11-binary_to_decimal converts number in base 2 to base 10 followed by \n
 12-combinations prints all combinations of two letters except oo
 13-print_float prints a number in 2dp. The number is stored in NUM
+100-decimal_to_hexadecimal converts from base 10 to base 16
+101-rot13 encodes and decodes text using the rot13 encryption
+102-odd prints every other line from the input starting with the first line
+103-water_and_stir adds two numbers stored in env vars WATER and STIR and prints the result
